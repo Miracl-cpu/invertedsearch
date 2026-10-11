@@ -1,0 +1,3 @@
+Hi again. The second document shares the word HI with file one.
+Search finds matching files and reports each word frequency.
+This update adds new counts without rebuilding the first document.

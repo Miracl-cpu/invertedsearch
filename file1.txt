@@ -1,0 +1,3 @@
+Hi there! This document introduces a small inverted index.
+The index stores each searchable word with its file and frequency.
+C programming can use linked lists to keep the buckets in order.
